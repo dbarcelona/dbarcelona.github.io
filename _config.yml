@@ -23,7 +23,7 @@ email: dbarcelona@berkeley.edu
 description: >- # this means to ignore newlines until "baseurl:"
   This is a description of what my website is about and it will be
   so amazing when it's done. PLEASE REPLACE BEFORE SHARING DUNCAN!
-baseurl: "blog" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: dcbank21
 github_username:  dbarcelona
