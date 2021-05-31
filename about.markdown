@@ -6,8 +6,13 @@ permalink: /about/
 
 # Who Am I?
 
-Hello! I am a proud Chinese-Filipino American that shares a first name with a dead Scottish king and a last name with a popular Catalonian city.
+I am a proud Chinese-Filipino American who shares a first name with a dead Scottish king and a last name with a popular Catalonian city.
 
+I am originally from the suburbs of New York, an alummus of [Regis High School](https://regis.org) in NYC, and I secretly enjoy Times Square (but shhhh... don't tell other New Yorkers).
+
+I am currently a rising junior at UC Berkeley, majoring in both [Industrial Engineering & Operations Research (IEOR)](https://ieor.berkeley.edu) and [Business Administration](https://haas.berkeley.edu).
+
+I am on the search for Spring/Summer 2022 opportunities related to operations, business analytics, and/or data science.
 
 > “Good, better, best. Never let it rest. Until your good is better and your better is best.” - Tim Duncan
 
