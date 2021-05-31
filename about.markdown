@@ -4,11 +4,10 @@ title: About
 permalink: /about/
 ---
 
-# Heading 1
-## Heading 2
-### Heading 3
-#### Heading 4
-##### Heading 5
+# Who Am I?
+
+Hello! I am a proud Chinese-Filipino American that shares a first name with a dead Scottish king and a last name with a popular Catalonian city.
+
 
 > “Good, better, best. Never let it rest. Until your good is better and your better is best.” - Tim Duncan
 
