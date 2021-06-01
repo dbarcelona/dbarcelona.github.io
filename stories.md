@@ -6,3 +6,9 @@ title: Stories
 layout: collection
 permalink: /stories
 ---
+# My memory can be iffy at times.
+
+With my 21st birthday later this year and college graduation less than 2 years away, I am starting to realize that I may become an adult soon. Stories from childhood, high school, and college hold great value in adulthood with their ability to remininsce on your younger years, learn from your past experiences, and most importantly, provide ammunition for connecting with people and networking.
+
+---
+---

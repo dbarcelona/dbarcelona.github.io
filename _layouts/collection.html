@@ -2,15 +2,15 @@
 layout: default
 ---
 
-<div class="home">
+<article class="post">
     <header class="post-header">
-
     {%- if page.title -%}
     <h1 class="post-title">{{ page.title | escape}}</h1>
     {%- endif -%}
     </header>
-
-    {{ content }}
+    <div class = "post-content">
+        {{ content }}
+    </div>
 
     {% assign variable = page.title | downcase %}
     {% if site.paginate %}
