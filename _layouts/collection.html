@@ -12,11 +12,11 @@ layout: default
 
     {{ content }}
 
-
+    {% assign variable = page.title | downcase %}
     {% if site.paginate %}
-    {% assign posts = paginator.posts %}
+    {% assign posts = paginator.posts | where: "categories", variable %}
     {% else %}
-    {% assign posts = site.posts %}
+    {% assign posts = site.posts | where: "categories", variable %}
     {% endif %}
 
 
