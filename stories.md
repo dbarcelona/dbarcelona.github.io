@@ -1,7 +1,7 @@
 ---
-layout: thoughts
-title: Thoughts
-permalink: /thoughts/
+layout: stories
+title: Stories
+permalink: /stories/
 ---
 
 Ever since I was little, I have always had a wide pleathora of interests

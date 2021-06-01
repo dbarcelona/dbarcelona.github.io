@@ -34,10 +34,24 @@ plugins:
   - jekyll-feed
   - jekyll-redirect-from
 
+# Orders header pages
 header_pages:
   - about.md
+  - stories.md
   - thoughts.md
   - resume.md
+
+# Defines categories
+collection:
+  category:
+    output: true
+defaults:
+  -
+    scope:
+      path: ""
+      type: category
+    values:
+      layout: "category"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
