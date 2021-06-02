@@ -6,9 +6,9 @@ layout: home
 title: Welcome!
 ---
 
-# My name is Duncan Barcelona and this is my website.
+# My name is Duncan Barcelona.
 
-With my 21st birthday later this year and college graduation less than 2 years away, I am starting to realize that I may become an adult soon. Stories from childhood, high school, and college hold great value in adulthood with their ability to remininsce on your younger years, learn from your past experiences, and most importantly, provide ammunition for connecting with people and networking.
+This is my website, perfect for those who are interested in learning more [about me](about), being entertained by some of the [stories](stories) of my life so far, silently judging my weird [thoughts](thoughts) about life and human behavior, or skimming through my [resume](resume) to reject me as fast as an ATS. This is my first foray into blogging or having a website, so if you have any questions or feedback for me, please use [this form](https://forms.gle/pWm7EPoRNVu7yLU69) to let me know!
 
 ---
 ---
