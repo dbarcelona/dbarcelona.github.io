@@ -12,10 +12,8 @@ stories
 * 
 * 
 * 
-* 
 
 thoughts
-* why blog?
 * standing on the subway/LIRR
 * binge watching
 * small talk
