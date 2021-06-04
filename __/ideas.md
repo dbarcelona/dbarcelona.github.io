@@ -5,9 +5,9 @@ stories
 * commuting to regis
 * regis basketball
 * tesla factory tour
-* top 5 / describe yourself in 5 words
+* stanfordrejects and top 5
 * crying at karate
-* 
+* hyperventalating and lacrosse
 * 
 * 
 * 
