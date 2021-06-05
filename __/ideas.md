@@ -8,7 +8,7 @@ stories
 * stanfordrejects and top 5
 * crying at karate
 * hyperventalating and lacrosse
-* 
+* dcbank21 and origins of a username
 * 
 * 
 * 
