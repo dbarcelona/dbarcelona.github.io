@@ -23,3 +23,5 @@ Ever since elementary school when I learned about how to construct paragraphs, I
 Once I arrived to college, I was greeted by the fact that engineering majors do not need to write essays, which I was actually a little sad about. Despite my years of essay procrastination, I was missing out on the heart-pounding, blood-rushing experience of submitting an essay seconds before the deadline and problems sets weren't giving me the same rush. So, I decided to take an English class in college. Did I learn from my high school mistakes? Nope, not at all.
 
 My website posts are divided into [stories](stories), which will be more like those carefully written and rewritten sentences, and [thoughts](thoughts), which, as you might guess, will be more like those sentences written hastily while blocking out the loud mariachi band that just walked on the 7 train. I promise I will try not to rewrite my thoughts too much if you promise you will read my half-coherent thoughts. Cool? Cool. Cool!
+
+*Note: I have added a section called [gratitude](gratitude), which will be daily thank-you's compiled into weekly posts.*
