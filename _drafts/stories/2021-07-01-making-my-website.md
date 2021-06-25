@@ -2,7 +2,7 @@
 layout:     post
 title:      How I "Made" My Website
 permalink:  making-my-website
-date:       2021-XX-XX
+date:       2021-07-01
 categories: stories
 ---
 

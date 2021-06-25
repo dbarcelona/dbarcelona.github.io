@@ -9,23 +9,11 @@ stories
 * crying at karate
 * hyperventalating and lacrosse
 * dcbank21 and origins of a username
-* 
-* 
-* 
+* free throws and science fairs
 
 thoughts
 * standing on the subway/LIRR
 * binge watching
 * small talk
 * notes app
-* overthinking
 * death
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
