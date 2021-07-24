@@ -4,7 +4,7 @@ title:      New Ventures and Project Wish List
 permalink:  new-ventures
 date:       2021-07-14
 categories: thoughts
-excerpt:    "Don't you just hate when you keep starting up new ventures? In my imagination, this would be an issue that I face regularly, but most of my ideas are kept hidden from the world in a iPhone note or ..."
+excerpt:    "Don't you just hate when you keep starting up new ventures? In my imagination, this would be an issue that I face regularly, but most of my ideas are kept hidden from the world in a iPhone note or..."
 ---
 
 # Don't you just hate when you keep starting up new ventures?
