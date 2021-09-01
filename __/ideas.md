@@ -5,6 +5,8 @@ stories
 * commuting to regis
 * regis basketball
 * tesla factory tour
+* iise video contest
+* walkathon
 * stanfordrejects and top 5
 * crying at karate
 * hyperventalating and lacrosse
